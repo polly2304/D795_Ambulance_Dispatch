@@ -1,0 +1,11 @@
+CallID,CallType,CallLocation,Ambulance,Route,Time
+1,Stroke,Intersection D,Ambulance 3,Address 123 Main St -> Intersection D,2.58
+3,House Fire,Address 789 Pine St,Ambulance 3,Address 123 Main St -> Intersection D -> Address 789 Pine St,8.51
+6,Childbirth,Intersection D,Ambulance 3,Address 123 Main St -> Intersection D,2.58
+7,Seizure,Intersection A,Ambulance 1,Intersection A,0.00
+8,Heart Attack,Intersection C,Ambulance 2,Intersection C,0.00
+12,Seizure,Intersection D,Ambulance 3,Address 123 Main St -> Intersection D,2.58
+15,Childbirth,Address 456 Oak St,Ambulance 3,Address 123 Main St -> Address 456 Oak St,7.82
+16,Severe Bleeding,Address 456 Oak St,Ambulance 3,Address 123 Main St -> Address 456 Oak St,7.82
+17,Asthma Attack,Address 123 Main St,Ambulance 3,Address 123 Main St,0.00
+21,Seizure,Address 789 Pine St,Ambulance 3,Address 123 Main St -> Intersection D -> Address 789 Pine St,8.51
